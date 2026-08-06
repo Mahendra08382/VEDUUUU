@@ -580,7 +580,7 @@ render_html(
 
         <p>
             A little corner of the internet made with endless love
-            <strong>{safe_sender}</strong>.
+            <strong>{safe_sender}</strong>❤️
         </p>
     </div>
     """
