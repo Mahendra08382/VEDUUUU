@@ -579,7 +579,7 @@ render_html(
         </h2>
 
         <p>
-            A little corner of the internet made with endless love by
+            A little corner of the internet made with endless love
             <strong>{safe_sender}</strong>.
         </p>
     </div>
@@ -1098,7 +1098,7 @@ With all my love,
             <br><br>
 
             <strong>
-                With all my love,
+                With Lots of Love
                 <br>
                 {safe_sender}
             </strong>
