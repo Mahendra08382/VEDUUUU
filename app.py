@@ -560,7 +560,7 @@ if "final_surprise" not in st.session_state:
 # Sender name
 # Change this text to your own name
 # ---------------------------------------------------------
-sender_name = "Mahendra"
+sender_name = ""
 safe_sender = escape(sender_name)
 
 
